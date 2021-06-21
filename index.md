@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Hotel Recommendations
 
-You can use the [editor on GitHub](https://github.com/gloriaypradal/Hotel_recommendations/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Recommended hotels for travelers based on past bookings and hotel search
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This school project is developed based on 2 data sets
 
-### Markdown
+Train set and a Destinations data set that consist in coded destination values
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jupyter Notebook was used to design the model to predict what hotels would be the preferred by the traveler
 
-```markdown
-Syntax highlighted code block
+Models used for this projects were: K-Nearest Neighbor, Random Forest and Naive Bayes
 
-# Header 1
-## Header 2
-### Header 3
+Please take in consideration that this project was created based on a Expedia competion hosted by Kaggle
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+For more details see [GitHub Repository](https://github.com/gloriaypradal/Hotel_recommendations).
 
-[Link](url) and ![Image](src)
-```
+### References
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Kaggle's Competition Site](https://www.kaggle.com/c/expedia-hotel-recommendations)
 
-### Jekyll Themes
+### Author
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gloriaypradal/Hotel_recommendations/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Gloria Moore
