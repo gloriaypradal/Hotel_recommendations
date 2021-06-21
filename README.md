@@ -34,3 +34,5 @@ and Deestinations data set that consist in coded destination values
 Jupyter Notebook was used to design the model to predict what hotels would be the preferred by the traveler
 
 Models used for this projects were: K-Nearest Neighbor, Random Forest and Naive Bayes
+
+Please take in consideration that this project was created based on a Expedia competion hosted by Kaggle
